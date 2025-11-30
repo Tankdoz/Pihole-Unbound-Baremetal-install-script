@@ -7,5 +7,5 @@ based on the installation instructions on the Pihole website:
 - unbound, Pihole as allround DNS solution https://docs.pi-hole.net/guides/dns/unbound/
 - Assumes installation from a ~/pihole directory; change to your preference
 
-![performance graph](./images/Pihole-Unbound performance tests.png) 
+![performance graph](./Pihole-Unbound%20performance%20tests.png) 
   
